@@ -34,7 +34,7 @@
         "defaultVisitType": "General",
         "conceptSetUI": {
             "Department Sent To": {
-                "required": false,
+                "required": true,
                 "autocomplete": true
             },
             "Hospitals, Referred by, Data": {},
