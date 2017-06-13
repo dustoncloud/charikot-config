@@ -33,13 +33,13 @@
             "sections": {
                 "patient_information": {
                     "title": "Patient Information",
-                    "name": "patientInformation",
+                    "type": "patientInformation",
                     "patientAttributes": [],
                     "displayOrder": 0
                 },
                 "vitals": {
                     "title": "Vitals",
-                    "name": "vitals",
+                    "type": "vitals",
                     "isObservation": true,
                     "dashboardConfig": {
                         "conceptNames": [
@@ -58,7 +58,7 @@
                 },
                 "admission_details": {
                     "title": "Admission Details",
-                    "name": "admissionDetails",
+                    "type": "admissionDetails",
                     "numberOfVisits": 1,
                     "showDetailsButton": true,
                     "displayOrder": 2
