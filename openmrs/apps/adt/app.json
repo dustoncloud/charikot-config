@@ -47,7 +47,7 @@
                         ],
                         "numberOfVisits": 2
                     },
-                    "allObservationDetails": {
+                    "expandedViewConfig": {
                         "conceptNames": [
                             "Nutritional Values"
                         ],
